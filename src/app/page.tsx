@@ -39,8 +39,8 @@ const projects = [
   {
     title: 'Portfolio Website',
     screenshot: '/portfolio.png',
-    link: 'https://surajitmondal.com/',
-    githubLink: 'https://github.com/Surajit1610/Portfolio',
+    link: 'https://portfolio-sm-seven.vercel.app/',
+    githubLink: 'https://github.com/Surajit1610/Portfolio-SM',
     description: 'A modern one-page portfolio built with Next.js and Tailwind CSS to showcase personal work and contact details.',
     stack: ['Next.js', 'Tailwind CSS', 'Responsive Design'],
   },

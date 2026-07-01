@@ -49,7 +49,7 @@ npm run dev
 # or
 yarn dev
 ```
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [https://portfolio-sm-seven.vercel.app/](https://portfolio-sm-seven.vercel.app/) with your browser to see the result.
 
 ## Deployment
 This project is deployed on Vercel. For deployment details, refer to the Next.js deployment documentation.
