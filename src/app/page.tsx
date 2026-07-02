@@ -22,9 +22,9 @@ const projects = [
   
   {
     title: 'E-commerce Platform',
-    screenshot: '/techshop.png',
-    link: 'https://techstore.appwrite.network/',
-    githubLink: 'https://github.com/Surajit1610/TechStore',
+    screenshot: '/jewelstore.png',
+    link: 'https://jewelstore.appwrite.network/',
+    githubLink: 'https://github.com/Surajitmondal09/Jewelstore',
     description: 'A full-featured e-commerce platform built with React and Appwrite, allowing users to browse products, add to cart, and complete purchases.',
     stack: ['React', 'JavaScript', 'Node.js'],
   },
